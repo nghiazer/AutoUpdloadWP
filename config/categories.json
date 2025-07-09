@@ -1,0 +1,176 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CubeCraft",
+      "keywords": [
+        "cube",
+        "minecraft",
+        "block",
+        "pixel",
+        "voxel"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Đạng thiết kế",
+      "keywords": [
+        "design",
+        "template",
+        "pattern",
+        "blueprint",
+        "thiết kế"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Đồ chơi giấy",
+      "keywords": [
+        "toy",
+        "plaything",
+        "đồ chơi",
+        "game",
+        "fun"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Động vật",
+      "keywords": [
+        "animal",
+        "pet",
+        "zoo",
+        "động vật",
+        "beast",
+        "creature"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Game",
+      "keywords": [
+        "game",
+        "character",
+        "gaming",
+        "video game",
+        "nintendo",
+        "pokemon"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gundam",
+      "keywords": [
+        "gundam",
+        "robot",
+        "mecha",
+        "mech",
+        "transformer"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hoạt hình | Anime",
+      "keywords": [
+        "anime",
+        "manga",
+        "cartoon",
+        "animation",
+        "character"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hướng dẫn",
+      "keywords": [
+        "tutorial",
+        "guide",
+        "instruction",
+        "how to",
+        "hướng dẫn"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Khi tài Quân sự",
+      "keywords": [
+        "military",
+        "tank",
+        "soldier",
+        "war",
+        "army",
+        "weapon"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mô hình Chibi",
+      "keywords": [
+        "chibi",
+        "cute",
+        "kawaii",
+        "mini",
+        "small",
+        "adorable"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mô hình động",
+      "keywords": [
+        "moving",
+        "mechanical",
+        "motion",
+        "animated",
+        "kinetic"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Ngày Lễ/Tết",
+      "keywords": [
+        "holiday",
+        "festival",
+        "celebration",
+        "christmas",
+        "new year",
+        "tết"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Nhà Đập bể | Sa bàn",
+      "keywords": [
+        "house",
+        "building",
+        "architecture",
+        "diorama",
+        "scene"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Phương tiện giao thông",
+      "keywords": [
+        "car",
+        "plane",
+        "train",
+        "vehicle",
+        "transport",
+        "ship",
+        "boat"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Việt Nam",
+      "keywords": [
+        "vietnam",
+        "vietnamese",
+        "việt nam",
+        "saigon",
+        "hanoi"
+      ]
+    }
+  ]
+}
